@@ -1,0 +1,15 @@
+.boton-submit {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #3498db;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.boton-submit:hover {
+  background-color: #2980b9;
+}
